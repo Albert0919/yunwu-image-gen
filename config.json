@@ -1,0 +1,24 @@
+{
+  "apiEndpoint": "https://yunwu.ai/v1beta/models/gemini-3.1-flash-image-preview:generateContent",
+  "apiKey": "sk-SbBji3kU9ZbkoSnLYjYIYK4qM9oNPRX7jv7lkkBfokNDOgjM",
+  "modelName": "gemini-3.1-flash-image-preview",
+  "defaultAspect": "1:1",
+  "defaultSize": "1K",
+  "defaultStyle": "default",
+  "styles": {
+    "default": "",
+    "anime": "anime style, vibrant colors, clean lines, Japanese animation",
+    "realistic": "photorealistic, highly detailed, professional photography, high quality photo",
+    "oil-painting": "oil painting style, artistic, textured brushstrokes, classical art",
+    "watercolor": "watercolor painting, soft colors, artistic, paper texture",
+    "pixel": "pixel art style, retro game aesthetic, 8-bit, nostalgic",
+    "3d": "3D rendered, highly detailed, cinematic lighting, Octane render",
+    "sticker": "sticker design, clean edges, white background, cute, die-cut",
+    "logo": "minimalist logo design, clean lines, professional, modern, vector style",
+    "sketch": "pencil sketch, hand-drawn, artistic, detailed linework",
+    "cyberpunk": "cyberpunk style, neon lights, futuristic, dark atmosphere, sci-fi",
+    "fantasy": "fantasy art style, magical, ethereal, detailed, epic"
+  },
+  "aspects": ["1:1", "2:3", "3:2", "3:4", "4:3", "4:5", "5:4", "9:16", "16:9", "21:9", "1:4", "1:8", "4:1", "8:1"],
+  "sizes": ["0.5K", "1K", "2K", "4K"]
+}
