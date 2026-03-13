@@ -15,6 +15,20 @@
 | 🎭 **12 种风格** | anime、realistic、cyberpunk 等 |
 | 📊 **4 种分辨率** | 0.5K ~ 4K |
 
+## 🖼️ 生成示例
+
+### 写实风格 - 戴墨镜的柴犬
+> 提示词：`一只可爱的柴犬，戴着墨镜，站在沙滩上`
+> 风格：`realistic` | 尺寸：`1:1`
+
+![戴墨镜的柴犬](examples/shiba-beach.png)
+
+### 赛博朋克城市
+> 提示词：`赛博朋克城市，霓虹灯闪烁，未来感建筑，飞行汽车，雨夜氛围`
+> 风格：`cyberpunk` | 尺寸：`9:16`
+
+![赛博朋克城市](examples/cyberpunk-city.png)
+
 ## 🚀 快速开始
 
 ### 1. 注册云雾账号
@@ -129,6 +143,9 @@ node generate.js "提示词" [选项]
 yunwu-image-gen/
 ├── generate.js      # 主程序
 ├── config.json      # 配置文件
+├── examples/        # 生成示例
+│   ├── shiba-beach.png
+│   └── cyberpunk-city.png
 ├── docs/
 │   └── group-selection.jpg  # 分组选择截图
 └── README.md
