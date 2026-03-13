@@ -2,4 +2,8 @@ node_modules/
 .DS_Store
 *.log
 .env
-output/
+.env.*
+*_secret*
+*_private*
+config.local.json
+secrets/

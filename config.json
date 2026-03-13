@@ -1,6 +1,6 @@
 {
   "apiEndpoint": "https://yunwu.ai/v1beta/models/gemini-3.1-flash-image-preview:generateContent",
-  "apiKey": "sk-SbBji3kU9ZbkoSnLYjYIYK4qM9oNPRX7jv7lkkBfokNDOgjM",
+  "apiKey": "YOUR_API_KEY_HERE",
   "modelName": "gemini-3.1-flash-image-preview",
   "defaultAspect": "1:1",
   "defaultSize": "1K",
